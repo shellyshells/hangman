@@ -9,7 +9,7 @@ Getting Started
 # Clone the Repository
 Open your terminal and run:
 ```bash
-git clone https://github.com/shellyshells/hangman-go.git
+git clone https://github.com/shellyshells/hangman.git
 cd hangman-go
 
 Running the Game
