@@ -6,7 +6,7 @@ Make sure you have the following installed:
 - [Go (Golang)](https://golang.org/dl/) (v1.18 or later)
 - [Git](https://git-scm.com/)
 
-Getting Started
+
 # Clone the Repository
 Open your terminal and run:
 ```bash
