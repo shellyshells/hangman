@@ -11,7 +11,7 @@ Make sure you have the following installed:
 Open your terminal and run:
 ```bash
 git clone https://github.com/shellyshells/hangman.git
-cd hangman-go
+cd hangman
 
 Running the Game
 paste 'go run main.go .\assets\words.txt' to play. 
